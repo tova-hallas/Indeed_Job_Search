@@ -1,2 +1,2 @@
-# Indeed_Job_Ratings
+# Indeed_Job_Search
 Predict Job's ratings
